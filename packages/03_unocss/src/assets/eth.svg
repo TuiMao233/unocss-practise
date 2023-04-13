@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>ava318备份 9@2x</title>
+  <defs>
+    <rect id="path-1" x="0" y="0" width="28" height="28" rx="7"></rect>
+  </defs>
+  <g id="3.2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Bridge-未连接" transform="translate(-520.000000, -455.000000)">
+      <g id="Group-19" transform="translate(460.000000, 137.000000)">
+        <g id="编组-32" transform="translate(40.000000, 266.000000)">
+          <g id="ava318备份-9" transform="translate(20.000000, 52.000000)">
+            <mask id="mask-2" fill="white">
+              <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="蒙版" fill="#5A79EF" xlink:href="#path-1"></use>
+            <g id="XTVCETH--big" mask="url(#mask-2)" fill-rule="nonzero">
+              <polygon id="Path" points="0 0 28 0 28 28 0 28"></polygon>
+              <polygon id="Path" fill-opacity="0.6" fill="#FFFFFF" points="14 4 14 11.3915 20.25 14.1835"></polygon>
+              <polygon id="Path" fill="#FFFFFF" points="14 4 7.75 14.1835 14 11.3915"></polygon>
+              <polygon id="Path" fill-opacity="0.6" fill="#FFFFFF" points="14 18.975 14 24 20.25 15.35"></polygon>
+              <polygon id="Path" fill="#FFFFFF" points="14 24 14 18.975 7.75 15.35"></polygon>
+              <polygon id="Path" fill-opacity="0.2" fill="#FFFFFF"
+                points="14 17.8085 20.25 14.1835 14 11.3915 14 17.8085"></polygon>
+              <polygon id="Path" fill-opacity="0.6" fill="#FFFFFF" points="7.75 14.1835 14 17.8085 14 11.3915">
+              </polygon>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
