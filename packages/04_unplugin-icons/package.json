@@ -7,6 +7,9 @@
     "build": "vue-tsc && vite build",
     "preview": "vite preview"
   },
+  "dependencies": {
+    "vue": "^3.2.47"
+  },
   "devDependencies": {
     "@iconify/json": "^2.2.49",
 		"unplugin-icons": "^0.16.1",
